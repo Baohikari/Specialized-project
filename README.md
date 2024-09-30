@@ -1,6 +1,6 @@
 ## The application about recognizing emotions through videos, images and voice
 
-1. Folder stucture
+```1. Folder stucture
 emotion_recognition_app/
 │
 ├── data/                  # Dữ liệu mẫu và mô hình
@@ -31,4 +31,4 @@ emotion_recognition_app/
 │
 ├── requirements.txt       # Liệt kê các thư viện cần thiết
 ├── README.md              # Hướng dẫn sử dụng
-└── setup.py               # File cài đặt nếu cần
+└── setup.py               # File cài đặt nếu cần```
