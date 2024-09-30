@@ -1,6 +1,6 @@
 ## The application about recognizing emotions through videos, images and voice
-
-```1. Folder stucture
+1. Folder stucture
+```
 emotion_recognition_app/
 │
 ├── data/                  # Dữ liệu mẫu và mô hình
